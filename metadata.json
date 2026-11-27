@@ -1,0 +1,6 @@
+{
+  "name": "FoodCircle – Community Food Sharing Network",
+  "description": "Connecting surplus food with people who need it across India. Share surplus meals, coordinate volunteer pickups, and reduce food waste together.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
